@@ -1,0 +1,109 @@
+Title: Movie ticket booking system ,where users can book tickets for any movie anytime and from anywhere.
+ 
+1: Who,what,why
+
+As a movie lover I want to be able to easily book tickets for a movie at xxx theater, so that I can ensure my seat is reserved and I can enjoy the movie without any hassle.
+
+2: Acceptance Criteria
+Given I am registered and  visit the movie ticket booking website , I want to be able to search for the theater and select the movie I want to watch along with the date and time.
+I want to see a clear seating layout of the theater and be able to select my preferred seat(s).
+ 
+
+3: Supporting Model
+
+Once I have reviewed my booking details, I want to be able to securely pay for my ticket(s) using my preferred method of payment, such as credit/debit card or mobile wallet. After the payment is successful, I want to receive a confirmation of my booking via email or SMS, which includes my booking reference number, show timings and seat number(s).
+If I need to make any changes to my booking, I want to be able to do so easily via the website or app, or contact customer support for assistance.
+On the day of the movie, I want to be able to easily show my confirmation email/SMS at the theater and gain entry without any delay.
+
+
+
+
+
+
+Movie Selection	
+
+As part of the movie and show selection process, I would like to:
+
+Be able to search for the movie I want to watch by title, genre, or other criteria.
+See a list of cinemas and showtimes where the movie is playing, along with their locations and other relevant information.
+Be able to filter the list of cinemas and showtimes by location, date, time, or other criteria to narrow down my search.
+Have the ability to select my preferred cinema and showtime based on my schedule and location.
+Have the option to view additional information about the movie, such as ratings, reviews, trailers, and synopses, to help me make an informed decision.
+Be able to add multiple movies and showtimes to my cart and complete the booking in a single transaction.
+Overall, the movie and show selection process should be user-friendly, informative, and flexible, allowing me to easily find and select the movie, cinema, and showtime that best suit my preferences and needs.
+
+
+
+
+
+Seat Selection
+As part of the seat selection process, I would like to:
+
+See a seating chart for the cinema and showtime I have selected, with available seats highlighted.
+Be able to choose my preferred seat(s) based on the available options, such as regular, VIP, balcony, or other designated areas.
+Have the option to see the view from the selected seat(s) to help me make an informed decision.
+Be able to view the price for each seat and any associated discounts or promotions.
+Be notified if my selected seat(s) have already been booked or are no longer available.
+Have the option to change my seat selection if necessary before completing my booking.
+Overall, the seat selection process should be user-friendly, intuitive, and efficient, allowing me to quickly and easily select the seat(s) that will make my movie experience the best it can be.
+
+
+
+Payment
+As part of the payment process, I would like to:
+
+Choose from various payment methods, such as credit/debit cards, e-wallets, or bank transfers.
+Have my payment details securely stored and processed using encryption technology to ensure the safety of my personal and financial information.
+Be able to view the total price of my booking, including any applicable fees or taxes, before making payment.
+Receive confirmation of my payment and booking via email or SMS, with a unique booking reference number.
+Have the option to print my ticket(s) or show them digitally on my mobile device for entry to the cinema.
+Be able to easily track my payment and booking history through my account on the movie ticket booking system.
+Overall, the payment process should be seamless and convenient, allowing me to complete my booking quickly and securely. 
+
+
+
+
+
+
+Seat Cancellation
+As a user of the movie ticket booking system, I want to be able to cancel my tickets if my plans change or if I am unable to attend the movie.
+
+When I log into my account on the movie ticket booking system, I should be able to view my upcoming bookings. From there, I should be able to select the booking that I want to cancel and click on the "Cancel" button.
+
+Upon clicking the "Cancel" button, I should receive a confirmation message asking me to confirm the cancellation. Once I confirm the cancellation, the system should process the cancellation and refund the ticket amount (if applicable) back to my account.
+
+I should also receive an email or SMS confirmation of the cancellation, along with the details of the refund (if applicable).
+
+It is important that the cancellation process is simple, easy to understand, and does not involve any unnecessary steps. This will ensure that users can easily cancel their tickets and receive their refunds in a timely manner.
+
+
+
+Review
+As part of the reviewer experience, I would like to:
+
+Have a dedicated reviewer account on the movie ticket booking system that allows me to access advance screenings or special screenings.
+Be able to view a list of upcoming movies and their corresponding screenings for the purpose of selecting the one I will review.
+Be able to choose my preferred cinema and showtime based on the location, availability, and other relevant factors.
+Have the option to select specific seats or request special accommodations, such as wheelchair-accessible seating, if needed.
+Receive my tickets and booking confirmation via email or other electronic means for easy access and tracking.
+Be able to easily cancel or modify my booking if necessary, subject to any applicable terms and conditions.
+Have the option to provide feedback or ratings on the booking and movie-going experience, as appropriate.
+Overall, the reviewer experience should be streamlined, efficient, and responsive to the unique needs of professional reviewers, allowing them to focus on their assignments and produce high-quality reviews.
+
+
+Customer Support
+
+As a user of the movie ticket booking system, I want to be able to easily access customer support in case I have any questions or issues with my ticket booking.
+
+When I log into my account on the movie ticket booking system, I should be able to access a dedicated customer support section. From there, I should be able to browse through frequently asked questions and troubleshooting guides to resolve common issues.
+
+If I am unable to find a solution to my problem, I should be able to easily contact customer support through a variety of channels, such as phone, email, or live chat. The customer support team should be knowledgeable and responsive, and able to assist me with any issues I may be facing, such as technical issues, payment problems, or ticket cancellations.
+
+In addition to providing technical support, the customer support team should also be able to provide information on upcoming movies, showtimes, and theater locations, as well as assist me with any special requests, such as group bookings or special seating arrangements.
+
+Overall, the customer support section of the movie ticket booking system should be designed to provide quick and efficient assistance to users, while also providing useful information and resources to enhance the overall movie-going experience.
+
+
+
+
+

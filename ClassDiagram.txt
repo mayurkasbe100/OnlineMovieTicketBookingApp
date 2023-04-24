@@ -1,0 +1,50 @@
+Movie Ticket Booking System Class Diagram describes the structure of a Movie Ticket Booking 
+System classes, their attributes, operations (or meth- ods), and the relationships among
+objects. The main classes of the Movie Ticket Booking System are Movie, Customer, Booking,
+Payment, Seats, Shows.
+====================================================================================================================
+Classes of Movie Ticket Booking System Class Diagram:
+====================================================================================================================
+Movie Class: Manage all the operations of Movie
+
+Customer Class Manage all the operations of Customer
+
+Booking Class: Manage all the operations of Booking
+
+Payment Class: Manage all the operations of Payment 
+
+Seats Class: Manage all the operations of Seats
+
+Shows Class: Manage all the operations of Shows
+
+=====================================================================================================================
+Classes and their attributes of Movie Ticket Booking System Class Diagram:
+=====================================================================================================================
+Movie Attributes: movie_id, movie_name, movie_language, movie_type, movie_hour, movie_description 
+
+Customer Attributes: customer_id, customer_name, customer_mobile, customer_email, 
+                     customer_usemame, customer_password customer address
+
+Booking Attributes: booking_id, booking title, booking type, booking ticket, booking date,
+                    booking_description Payment Attributes payment id, payment 
+                    customer_id, payment date, payment amount, payment description
+
+Payment Attributes: payment_id, payment_customer_id, payment date, payment amount, payment_description
+
+Seats Attributes seat id, seat_movie_id, seat customer_id, seat number, seat type, seat description 
+
+Shows Attributes: show_id, show_name, show_type, show_time, show_date, show_description
+=======================================================================================================================
+Classes and their methods of Movie Ticket Booking System Class Diagram:
+=======================================================================================================================
+Movie Methods: addMovie(), editMovie(), deleteMovie(), updateMovie(), saveMovie(), searchMovie()
+
+Customer Methods: addCustomer(), editCustomer(), deleteCustomer(), updateCustomer(), saveCustomer(), searchCustomer() 
+
+Booking Methods: addBooking(), editBooking(), deleteBooking(), updateBooking(), saveBooking(), searchBooking()
+
+Payment Methods: addPayment(), editPayment(), deletePayment(), updatePayment(), savePayment(), searchPayment()
+
+Seats Methods: addSeats(), editSeats(), deleteSeats(), updateSeats(), saveSeats(), searchSeats()
+
+Shows Methods: addShows(), editShows(), deleteShows(), updateShows(), saveShows(), searchShows()

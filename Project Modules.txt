@@ -1,0 +1,33 @@
+Brief explanation of each of the modules in a movie booking system:
+
+1.User authentication: This module is responsible for authenticating users who wish to 
+		       access the movie booking system. It ensures that only authorized
+		       users can access the system, and it may include features such as
+		       login and registration.
+
+2.Movie database management: This module manages the movie database, which includes
+			     information about movies such as title, description, genre,
+			     cast, and show timings.It may also include features such as
+			     search and filtering to help users find the movies they are 
+			     interested in.
+
+3.Ticket booking: This module allows users to book tickets for movies, by selecting the
+		  movie, show timings, and seat preferences. It also includes features
+ 		  such as seat availability, pricing, and booking confirmation.
+
+4.Payment processing: This module handles payment processing for ticket bookings.
+		      It includes features such as payment gateway integration, 
+		      secure payment processing,and payment confirmation.
+
+5.Notification system: This module sends notifications to users about their bookings,
+ 		       such as booking confirmation, payment confirmation, and reminders 
+		       about upcoming show timings.
+
+These modules work together to provide a complete and functional movie booking system, 
+allowing users to search for movies, book tickets, make payments, and receive notifications
+about their bookings.
+
+
+
+
+

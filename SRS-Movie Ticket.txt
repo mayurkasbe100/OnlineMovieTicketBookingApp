@@ -1,0 +1,95 @@
+Document:System Requirement Specification Document
+
+Title:-
+Bookmymovie
+
+Team:-
+Direct Customer,Viewer,Business Analyst,Technical Team,Designing Team,System Analyst,Customer Relationship Team,Production house,Theatre owner,staff.
+
+Objective(purpose):-
+Bookmymovie is a booking system for customers,and is intended to provide a complete solution for customers through the internet. It will allow customers to book/view tickets of a movie virtually and get the ticket online without visiting the movie ticket counters. 
+
+Scope:-
+This system allows users to view show availability ,seat availability ,choose show’s date and time,nearby multiplexes,view movie details using web application.Customer will be able to cancel tickets from 2 hours of booking.
+
+Definitions:-
+
+SSL : Secure socket layer
+
+
+Requirements:
+
+Functional Requirements:-
+User will be able to view movie details,
+User will be able to view movie date and timings,movie runtime duration,
+can also be able to view movie cast,movie ratings anonymously.
+Users can filter movies by genre,movie cast,ratings,new release,languages.
+
+The system should allow users to register and login to their accounts.
+The system should confirm the booking and provide a booking reference number and confirmation email  and SMS to the user.
+
+
+Registered customers will be able to book movie tickets/cancel movie tickets,choose between available seats and will be able to give reviews only after booking tickets,give feedback about services provided by multiplex management.
+Registered users can edit their profile details accordingly. 
+Registered users can securely make payments using multiple payment options.
+
+Theatre staff must be registered.
+Theatre staff can add or remove new movies.
+Theatre staff can change movie timing, screening of movies to other screens.
+Theatre staff can change the cost of movie tickets according to requirement. 
+ 
+Owner can view weekly,monthly collections of particular movies.
+Owners can observe the growth pattern of their theatre.
+
+
+Non-functional Requirements:-
+Security
+ Registered Customers will be allowed to book tickets.	
+ Each stakeholder will be able to access the system  through the authentication process. 
+ System will provide access to  the content , operations using Role based security           
+ (Authorization) (Permissions based on Role)
+ Using SSL in all transactions  which will be performed by the stakeholder. 
+ It would protect confidential information shared by the system to stakeholders.
+ System will automatically log off all stakeholders after some time due to inactiveness.
+ System will block operations for inactive  stakeholders and would redirect for authentication.
+ System  will internally maintain secure communication channel between Servers ( Web    
+ Servers, App Servers, database Server)
+ Sensitive data will always be encrypted across communication.
+ User proper firewall to protect servers from outside fishing, vulnerable attacks.
+
+Maintainability:
+1.A Commercial database software will be used to maintain System data Persistence.
+2.A ready-made Web Server will be installed to host an online booking portal (Web Site) to manage server capabilities.
+3.IT operations team will easily monitor and configure the System using Administrative tools provided by Servers.
+4.Separate environment will be maintained for the system.
+
+Portability:
+1.PDA: Portable Device Application
+2.System will provide a portable User Interface ( HTML, CSS, JS) through which users will be able to   access online booking portals.
+3.System can be deployed to single server, multi server, to any OS, Cloud (Azure or AWS or GCP)
+
+
+Accessibility:
+1.Only registered customers will be able to book a ticket after authentication.
+2.BOD team will be able to view daily, weekly, monthly, annual business Growth through a customised dashboard.
+3.User will be able to see their ticket details.
+
+
+Durability:
+System will implement backup and recovery for retaining stake holders data, business operation data and business data over time.
+
+Efficiency:
+During hyped movie release,a large number of users will be able to book tickets successfully with the same response time and also can view tickets. 
+System will be able to manage all transactions successfully.
+
+Scalability:
+
+The system will be able to provide visitors, lag free environment for booking and modification of  movie tickets irrespective of the load.
+
+
+Safety:
+Booking application will be secure from malicious attack, fishing.
+Booking application  functionalities are protected from outside with proper firewall configuration.
+Booking application will always be kept updated with the latest anti virus software.
+Business data will be backed up periodically to ensure safety of data using incremental backup strategy.
+Role based security will be applied for Application data and operations accessibility.
